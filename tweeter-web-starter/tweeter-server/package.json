@@ -1,0 +1,23 @@
+{
+    "name": "tweeter-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@aws-sdk/client-s3": "^3.540.0",
+        "@aws-sdk/client-sqs": "^3.554.0",
+        "@aws-sdk/lib-dynamodb": "^3.540.0",
+        "crypto-js": "^4.2.0",
+        "dotenv": "^16.4.5",
+        "moment": "^2.29.4",
+        "ts-node": "^10.9.2",
+        "tweeter-shared": "file:../tweeter-shared",
+        "uuid": "^9.0.0"
+    }
+}

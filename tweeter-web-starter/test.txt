@@ -1,0 +1,16 @@
+{
+  "authToken":
+    {
+      "_token":"2001f0f7-6c76-47cb-afee-83aeab188d97",
+      "_timestamp":1711070857564
+    },
+  "user":
+    {
+      "_firstName":"Allen",
+      "_lastName":"Anderson",
+      "_alias":"@allen",
+      "_imageUrl":"https://faculty.cs.byu.edu/~jwilkerson/cs340/tweeter/images/donald_duck.png"
+    },
+  "pageSize": 2,
+  "lastItem": null
+}

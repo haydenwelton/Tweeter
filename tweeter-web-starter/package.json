@@ -1,0 +1,14 @@
+{
+  "name": "tweeter",
+  "version": "1.0.0",
+  "workspaces": [
+    "tweeter-shared",
+    "tweeter-web"
+  ],
+  "author": "JWilkerson",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.554.0",
+    "vite-plugin-dts": "^3.3.1"
+  }
+}
